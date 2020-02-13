@@ -1,0 +1,125 @@
+body {
+    background-color: #1e2842;
+  }
+  
+  main {
+    width: 960px;
+    margin: 1rem auto; 
+  }
+  
+  header {
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px; 
+    margin: 20px 0px 30px 0px;
+  }
+  
+  .fit-picture {
+    height: 120px;
+    margin-left: 0px;
+  } 
+  
+  #bio {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+  
+  #bio-choose {
+    width: 100%;
+    margin-left: 2rem; 
+  }
+  
+  #name-date {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  #roger {
+    font: bold 1.6rem "Roboto", sans-serif;
+    color: #c6f0fe;
+    margin-top: -3px;
+  }
+  
+  .paragraph-text {
+    padding: 8px;
+    background-color: #545454;
+    font: 0.9rem "Roboto", sans-serif;
+    margin-top: 20px;
+  }
+  
+  ul {
+    padding-left: 30px;
+    color: #cccccc;
+  }
+  
+  #tech {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  figure {
+    text-align: center;
+  }
+  
+  figure > img {
+    max-height: 200px;
+  }
+  
+  figcaption {
+    color: #ccc;
+    font: 1rem "Roboto", sans-serif;
+    background-color: rgba(0, 0, 0, .7);
+    position: relative;
+    bottom: 20px;
+    height: 40px;
+    max-width: 200;
+    margin-top: 5;
+  }
+  
+  #interest {
+    max-width: 600;
+  }
+  
+  .final-paragraph {
+    margin-bottom: 15px;
+    margin-left: 5px;
+  }
+  
+  footer {
+    text-align: center;
+    height: 200px;
+    bottom: 20px 0px 20px 0px;
+  }
+  
+  p {
+    padding-left: 10px;
+    margin-bottom: 10px;
+    color: #cccccc;
+  }
+  
+  h2, h4 {
+    margin: 5px;
+    color: #c6f0fe;;
+    font: bold 1.2rem "Roboto", sans-serif;
+  }
+  
+  .excited-header {
+    margin: 0px 0px 32px 0px;  
+  }
+  
+  h5 {
+    padding-left: 5px;
+    margin: 5px 0px 5px 0px;
+    color: #D1F0FF;
+    font: 1.2em "Roboto", sans-serif;
+  }
+  
+  time {
+    color: #fff;
+    font: 1.5em "Roboto", sans-serif;
+    margin-bottom: 1.2rem;
+  }
